@@ -1,0 +1,1 @@
+This project will when ready for distribution provide a way to generate and store char sheets for most AD&D type games.
